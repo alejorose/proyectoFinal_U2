@@ -1,0 +1,47 @@
+.icono-completo {
+    
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+
+.titulo {
+    text-align: center
+    
+    
+    
+}
+
+.imagenes {
+
+    height: 640px;
+    float: center;
+    text-align: center;
+    border-radius: 10px ;
+}
+
+.textosInicio {
+    text-align: center;
+    margin-bottom: 50px;
+    
+
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 27px;
+   
+    
+}
+
+
+h2 {
+    font-family: 'Righteous', cursive;
+    
+
+}
